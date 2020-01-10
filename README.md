@@ -1,1 +1,1 @@
-# TTK4260-Multivariat-Data-Analysis
+# TTK4260 Multivariat Data Analysis
